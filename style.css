@@ -1,0 +1,34 @@
+body {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+* {
+  user-select: none;
+}
+.dist {
+  padding: 10px;
+}
+table {
+  font-size: 20px;
+}
+button {
+  min-width: 193px;
+  min-height: 39px;
+}
+input,
+button {
+  margin: 5px;
+}
+table {
+  margin: 5px;
+  min-width: 200px;
+}
+div {
+  margin: 5px;
+  font-size: 20px;
+}
+p {
+  color: rgba(0, 0, 0, 0.5);
+}
